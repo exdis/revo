@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '40f91df435045d5677abb4e1cf62b136',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'cfc4a16e87816219810f5b2d2770dd27',
+  'native_key' => 'tiny.skin_variant',
+  'object' => '{"key":"tiny.skin_variant","value":"","xtype":"textfield","namespace":"tinymce","area":"general","editedon":"0000-00-00 00:00:00"}',
+);

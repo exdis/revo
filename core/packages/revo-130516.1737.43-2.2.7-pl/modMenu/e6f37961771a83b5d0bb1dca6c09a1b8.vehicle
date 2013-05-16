@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b77764badcf866072b7a6d7ea594a79c',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'e6f37961771a83b5d0bb1dca6c09a1b8',
+  'native_key' => 'new_static_resource',
+  'object' => '{"text":"new_static_resource","parent":"site","action":55,"description":"new_static_resource_desc","icon":"images\\/icons\\/link_add.png","menuindex":7,"params":"&class_key=modStaticResource","handler":"","permissions":"new_static_resource"}',
+);

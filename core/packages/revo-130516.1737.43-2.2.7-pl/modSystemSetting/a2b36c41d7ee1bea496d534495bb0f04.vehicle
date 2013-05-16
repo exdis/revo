@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '79e2baaedd1be62626cd8da869f100cd',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a2b36c41d7ee1bea496d534495bb0f04',
+  'native_key' => 'settings_distro',
+  'object' => '{"key":"settings_distro","value":"git","xtype":"textfield","namespace":"core","area":"system","editedon":"0000-00-00 00:00:00"}',
+);

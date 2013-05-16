@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '870f16119fab50e43fd14c3a9d608690',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'cdebd3f76bf928dcef43005cfddcd35a',
+  'native_key' => 'search',
+  'object' => '{"text":"search","parent":"site","action":54,"description":"search_desc","icon":"images\\/icons\\/context_view.gif","menuindex":3,"params":"","handler":"","permissions":"search"}',
+);

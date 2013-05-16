@@ -1,0 +1,31 @@
+<?php return array (
+  'class' => 'xPDOFileVehicle',
+  'object' => 
+  array (
+    'source' => 'revo-130516.1737.43-2.2.7-pl/xPDOFileVehicle/8ac1fc96f32eb2adf6a397b1dd692e39/',
+    'target' => 'return MODX_CORE_PATH . \'components/vapor/model/\';',
+    'name' => 'vapor',
+  ),
+  'vehicle_class' => 'xPDOFileVehicle',
+  'validate' => 
+  array (
+    0 => 
+    array (
+      'type' => 'php',
+      'body' => '{"type":"php","source":"revo-130516.1737.43-2.2.7-pl\\/xPDOFileVehicle\\/8ac1fc96f32eb2adf6a397b1dd692e39.validate.truncate_tables.validator","classes":["modAccessAction","modAccessActionDom","modAccessCategory","modAccessContext","modAccessElement","modAccessMenu","modAccessPermission","modAccessPolicy","modAccessPolicyTemplate","modAccessPolicyTemplateGroup","modAccessResource","modAccessResourceGroup","modAccessTemplateVar","modAction","modActionDom","modActionField","modActiveUser","modCategory","modCategoryClosure","modChunk","modClassMap","modContentType","modContext","modContextResource","modContextSetting","modElementPropertySet","modEvent","modFormCustomizationProfile","modFormCustomizationProfileUserGroup","modFormCustomizationSet","modLexiconEntry","modManagerLog","modMenu","modNamespace","modPlugin","modPluginEvent","modPropertySet","modResource","modResourceGroup","modResourceGroupResource","modSession","modSnippet","modSystemSetting","modTemplate","modTemplateVar","modTemplateVarResource","modTemplateVarResourceGroup","modTemplateVarTemplate","modUser","modUserProfile","modUserGroup","modUserGroupMember","modUserGroupRole","modUserMessage","modUserSetting","modWorkspace","registry.db.modDbRegisterMessage","registry.db.modDbRegisterTopic","registry.db.modDbRegisterQueue","transport.modTransportProvider","transport.modTransportPackage","modDashboard","modDashboardWidget","modDashboardWidgetPlacement","sources.modAccessMediaSource","sources.modMediaSource","sources.modMediaSourceElement","sources.modMediaSourceContext"],"name":"validate.truncate_tables"}',
+    ),
+  ),
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'php',
+      'body' => '{"type":"php","source":"revo-130516.1737.43-2.2.7-pl\\/xPDOFileVehicle\\/8ac1fc96f32eb2adf6a397b1dd692e39.resolve.vapor_model.resolver","name":"resolve.vapor_model"}',
+    ),
+  ),
+  'vehicle_package' => 'transport',
+  'guid' => 'd58bba1a83c61a6521bbb8fcd6453bf9',
+  'package' => '',
+  'signature' => '8ac1fc96f32eb2adf6a397b1dd692e39',
+  'native_key' => 'd58bba1a83c61a6521bbb8fcd6453bf9',
+);

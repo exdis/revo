@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e641600e078ce8e5f1b89524db9d695a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '61a9972c0af7864dbcda1886b3e9264d',
+  'native_key' => 'tiny.template_list',
+  'object' => '{"key":"tiny.template_list","value":"","xtype":"textarea","namespace":"tinymce","area":"general","editedon":"0000-00-00 00:00:00"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6d2b6201266727015a8c039c238658f5',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '8e8155dfdcb3521603f654f9c6e39018',
+  'native_key' => 64,
+  'object' => '{"id":64,"namespace":"core","controller":"resource\\/site_schedule","haslayout":1,"lang_topics":"resource","assets":"","help_url":""}',
+);

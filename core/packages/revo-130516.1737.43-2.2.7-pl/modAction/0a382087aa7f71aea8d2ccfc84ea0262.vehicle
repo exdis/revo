@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '93de28a0df9d27b82aa8bd5e959f125b',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '0a382087aa7f71aea8d2ccfc84ea0262',
+  'native_key' => 6,
+  'object' => '{"id":6,"namespace":"core","controller":"context\\/view","haslayout":1,"lang_topics":"context","assets":"","help_url":"Contexts"}',
+);

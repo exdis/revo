@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f418a1f56d12550d0692f45f2253381a',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'fa8863f745375ad12071bfceca5ffacf',
+  'native_key' => 35,
+  'object' => '{"id":35,"namespace":"core","controller":"security\\/login","haslayout":1,"lang_topics":"login","assets":"","help_url":""}',
+);

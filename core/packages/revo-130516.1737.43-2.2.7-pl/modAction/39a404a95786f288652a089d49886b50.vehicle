@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1e729eb064815d7ec86b243ece0ed260',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '39a404a95786f288652a089d49886b50',
+  'native_key' => 22,
+  'object' => '{"id":22,"namespace":"core","controller":"element\\/tv\\/create","haslayout":1,"lang_topics":"tv,tv_widget,propertyset,element","assets":"","help_url":"Template+Variables"}',
+);

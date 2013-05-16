@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3cb8039672ca1f9cc792125c7623c473',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'de719993cb649095a80edd78a1dd94fb',
+  'native_key' => 'recaptcha.public_key',
+  'object' => '{"key":"recaptcha.public_key","value":"","xtype":"textfield","namespace":"recaptcha","area":"reCaptcha","editedon":"0000-00-00 00:00:00"}',
+);

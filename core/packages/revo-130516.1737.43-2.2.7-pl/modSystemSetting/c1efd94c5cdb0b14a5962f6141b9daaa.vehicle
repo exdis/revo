@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e479a68e27ca1b25fa5175e6a2f7bc1c',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c1efd94c5cdb0b14a5962f6141b9daaa',
+  'native_key' => 'tiny.skin',
+  'object' => '{"key":"tiny.skin","value":"cirkuit","xtype":"textfield","namespace":"tinymce","area":"general","editedon":"0000-00-00 00:00:00"}',
+);

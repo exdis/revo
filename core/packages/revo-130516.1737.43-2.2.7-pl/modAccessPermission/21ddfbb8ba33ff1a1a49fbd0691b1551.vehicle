@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '47f0b196c7b51440d9635af6fc367ed4',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '21ddfbb8ba33ff1a1a49fbd0691b1551',
+  'native_key' => 97,
+  'object' => '{"id":97,"template":1,"name":"policy_edit","description":"perm.policy_edit_desc","value":1}',
+);

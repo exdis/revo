@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a8c079592598d1a7db1624c3f58883d4',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '2c77683e2cf2eb0ab73f9a57d301cece',
+  'native_key' => 5,
+  'object' => '{"id":5,"source":0,"property_preprocess":0,"name":"lgnForgotPassSentTpl","description":"","editor_type":0,"category":4,"cache_type":0,"snippet":"<h2>Your Login Information Has Been Sent<\\/h2>\\n\\n<p>Your login information has been sent to the email address [[+email]].<\\/p>","locked":0,"properties":"","static":0,"static_file":"","content":"<h2>Your Login Information Has Been Sent<\\/h2>\\n\\n<p>Your login information has been sent to the email address [[+email]].<\\/p>"}',
+);

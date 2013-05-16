@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7f147c8cd3cbd75df25adb8a166b5054',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'c90cc0ddaa110ae1d7674ee942d54028',
+  'native_key' => 51,
+  'object' => '{"id":51,"namespace":"core","controller":"source\\/update","haslayout":1,"lang_topics":"sources,namespace","assets":"","help_url":"Media+Sources"}',
+);

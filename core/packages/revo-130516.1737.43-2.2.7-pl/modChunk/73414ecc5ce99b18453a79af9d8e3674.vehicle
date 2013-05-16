@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '17433ff09cca1a147b19aedcef755bdb',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '73414ecc5ce99b18453a79af9d8e3674',
+  'native_key' => 7,
+  'object' => '{"id":7,"source":0,"property_preprocess":0,"name":"lgnResetPassTpl","description":"","editor_type":0,"category":4,"cache_type":0,"snippet":"<div class=\\"loginResetPass\\">\\n<p class=\\"loginResetPassHeader\\">[[+username]],<\\/p>\\n\\n<p class=\\"loginResetPassText\\">Your password has been reset. Please return <a href=\\"[[+loginUrl]]\\">here<\\/a> to log in.<\\/p>  \\n<\\/div>","locked":0,"properties":"","static":0,"static_file":"","content":"<div class=\\"loginResetPass\\">\\n<p class=\\"loginResetPassHeader\\">[[+username]],<\\/p>\\n\\n<p class=\\"loginResetPassText\\">Your password has been reset. Please return <a href=\\"[[+loginUrl]]\\">here<\\/a> to log in.<\\/p>  \\n<\\/div>"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a10de14b8a02b1ddddcf14bfebb28f8a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'aa4dff54d53e7edd6a969a0e33fb1ce1',
+  'native_key' => 'tiny.object_resizing',
+  'object' => '{"key":"tiny.object_resizing","value":"1","xtype":"combo-boolean","namespace":"tinymce","area":"general","editedon":"0000-00-00 00:00:00"}',
+);

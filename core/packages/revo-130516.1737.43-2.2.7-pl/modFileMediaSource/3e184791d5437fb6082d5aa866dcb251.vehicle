@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f31b2bf91e3287a5a81fa96245dbf7b0',
+  'package' => 'modx.sources',
+  'class' => 'modFileMediaSource',
+  'signature' => '3e184791d5437fb6082d5aa866dcb251',
+  'native_key' => 2,
+  'object' => '{"id":2,"name":"UserFiles","description":"","class_key":"sources.modFileMediaSource","properties":"a:3:{s:8:\\"basePath\\";a:6:{s:4:\\"name\\";s:8:\\"basePath\\";s:4:\\"desc\\";s:23:\\"prop_file.basePath_desc\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:11:\\"\\/userfiles\\/\\";s:7:\\"lexicon\\";s:11:\\"core:source\\";}s:7:\\"baseUrl\\";a:6:{s:4:\\"name\\";s:7:\\"baseUrl\\";s:4:\\"desc\\";s:22:\\"prop_file.baseUrl_desc\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:11:\\"\\/userfiles\\/\\";s:7:\\"lexicon\\";s:11:\\"core:source\\";}s:16:\\"allowedFileTypes\\";a:6:{s:4:\\"name\\";s:16:\\"allowedFileTypes\\";s:4:\\"desc\\";s:31:\\"prop_file.allowedFileTypes_desc\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:54:\\"doc,docx,xls,xlsx,pdf,jpg,png,tiff,bmp,swf,rar,zip,txt\\";s:7:\\"lexicon\\";s:11:\\"core:source\\";}}","is_stream":1}',
+);

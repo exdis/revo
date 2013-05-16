@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ed48d41ee862c988372b100f40a2f8fa',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '3ce777e0bd2935e6693934d2af8dedda',
+  'native_key' => 'manage_workspaces',
+  'object' => '{"text":"manage_workspaces","parent":"system","action":69,"description":"manage_workspaces_desc","icon":"images\\/icons\\/sysinfo.gif","menuindex":0,"params":"","handler":"","permissions":"packages"}',
+);

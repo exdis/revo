@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1c537b6b936fee08cbbd1fb87006ea91',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '245eaef5a070f28d1d1df009f32e2dbd',
+  'native_key' => 'wiki',
+  'object' => '{"text":"wiki","parent":"support","action":0,"description":"wiki_desc","icon":"images\\/icons\\/sysinfo.gif","menuindex":1,"params":"","handler":"window.open(\\"http:\\/\\/rtfm.modx.com\\/\\");","permissions":""}',
+);

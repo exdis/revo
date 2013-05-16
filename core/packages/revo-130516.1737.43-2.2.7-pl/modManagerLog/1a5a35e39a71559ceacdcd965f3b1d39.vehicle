@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'deacfa37fd57befe96b633efa8405296',
+  'package' => 'modx',
+  'class' => 'modManagerLog',
+  'signature' => '1a5a35e39a71559ceacdcd965f3b1d39',
+  'native_key' => 1,
+  'object' => '{"id":1,"user":1,"occurred":"2013-05-16 17:12:24","action":"setting_update","classKey":"modSystemSetting","item":"phpthumb_cache_maxage"}',
+);

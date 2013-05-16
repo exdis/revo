@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '21283e06e3dc1959534ad0ef2c016313',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '10707a3e8be98ab29b2fdf2aa70e35a9',
+  'native_key' => 69,
+  'object' => '{"id":69,"namespace":"core","controller":"workspaces","haslayout":1,"lang_topics":"workspace","assets":"","help_url":"Package+Management"}',
+);

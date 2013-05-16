@@ -1,0 +1,15 @@
+<?php return array (
+  'class' => 'xPDOFileVehicle',
+  'object' => 
+  array (
+    'source' => 'revo-130516.1737.43-2.2.7-pl/xPDOFileVehicle/a7544b64008622bc0e66047bbd058825/',
+    'target' => 'return MODX_BASE_PATH;',
+    'name' => 'userfiles',
+  ),
+  'vehicle_class' => 'xPDOFileVehicle',
+  'vehicle_package' => 'transport',
+  'guid' => '23b88ec3e9292c8ecc093bd447612de9',
+  'package' => '',
+  'signature' => 'a7544b64008622bc0e66047bbd058825',
+  'native_key' => '23b88ec3e9292c8ecc093bd447612de9',
+);

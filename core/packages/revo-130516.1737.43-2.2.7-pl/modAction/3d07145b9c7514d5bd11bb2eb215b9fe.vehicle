@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '507b6e4cf2c3be1bc1b762a488f8739c',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '3d07145b9c7514d5bd11bb2eb215b9fe',
+  'native_key' => 77,
+  'object' => '{"id":77,"namespace":"core","controller":"security\\/message","haslayout":1,"lang_topics":"messages","assets":"","help_url":""}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3aa9a0c8d42c84b816b20cc151034603',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'fd3edba81da7fbe2524d3c251f9f71d4',
+  'native_key' => 188,
+  'object' => '{"id":188,"template":3,"name":"list","description":"perm.list_desc","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2afd36b6b2d1e8121215e4f3f48c4c46',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '0d16fa64cb3bb301a1f89d9a7018bbc1',
+  'native_key' => 46,
+  'object' => '{"id":46,"namespace":"core","controller":"system\\/dashboards\\/update","haslayout":1,"lang_topics":"dashboards,user","assets":"","help_url":"Dashboards"}',
+);

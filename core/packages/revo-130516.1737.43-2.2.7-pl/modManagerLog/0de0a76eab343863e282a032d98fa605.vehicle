@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'fd56d974442564a3b1ad7e626bc36f18',
+  'package' => 'modx',
+  'class' => 'modManagerLog',
+  'signature' => '0de0a76eab343863e282a032d98fa605',
+  'native_key' => 11,
+  'object' => '{"id":11,"user":1,"occurred":"2013-05-16 17:19:32","action":"user_group_update","classKey":"modUserGroup","item":"2"}',
+);

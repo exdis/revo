@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ff8a38bb7fd5c8668bf2be81903e61b9',
+  'package' => 'modx',
+  'class' => 'modUser',
+  'signature' => '4379fab6680b0b846ca8441e66f9fb69',
+  'native_key' => 1,
+  'object' => '{"id":1,"username":"admin","password":"WGKy\\/VhcHlK5Q1W4HYQPuAPtAeTGgG2YJglEf+GXKZw=","cachepwd":"","class_key":"modUser","active":1,"remote_key":null,"remote_data":null,"hash_class":"hashing.modPBKDF2","salt":"3ed975e02fd4d8cd12c72785a0d15a29","primary_group":1,"session_stale":"a:2:{i:0;s:3:\\"mgr\\";i:1;s:3:\\"web\\";}","sudo":1}',
+);

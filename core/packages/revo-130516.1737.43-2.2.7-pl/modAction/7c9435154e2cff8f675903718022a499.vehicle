@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'fb40d4349871c3f9ecf0dea22d6687e2',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '7c9435154e2cff8f675903718022a499',
+  'native_key' => 43,
+  'object' => '{"id":43,"namespace":"core","controller":"security\\/access\\/policy\\/template\\/update","haslayout":1,"lang_topics":"user,policy","assets":"","help_url":"PolicyTemplates"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7febd0776f647f6821c4e9af1f051cde',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'fcf484eeec15bbe923445cc593f387cc',
+  'native_key' => 59,
+  'object' => '{"id":59,"template":1,"name":"flush_sessions","description":"perm.flush_sessions_desc","value":1}',
+);

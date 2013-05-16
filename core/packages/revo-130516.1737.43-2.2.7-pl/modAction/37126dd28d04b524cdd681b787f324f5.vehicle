@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'eeebe5122b1a3c0e95a1e5009e4ec86c',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '37126dd28d04b524cdd681b787f324f5',
+  'native_key' => 52,
+  'object' => '{"id":52,"namespace":"core","controller":"system\\/file\\/create","haslayout":1,"lang_topics":"file","assets":"","help_url":""}',
+);

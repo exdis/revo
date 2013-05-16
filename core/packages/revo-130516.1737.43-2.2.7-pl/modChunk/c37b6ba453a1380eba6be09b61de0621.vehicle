@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '609d5d88578a647a9ccf511f5b2428ce',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'c37b6ba453a1380eba6be09b61de0621',
+  'native_key' => 10,
+  'object' => '{"id":10,"source":0,"property_preprocess":0,"name":"lgnActiveUser","description":"","editor_type":0,"category":4,"cache_type":0,"snippet":"<li>[[+username]]<\\/li>","locked":0,"properties":"","static":0,"static_file":"","content":"<li>[[+username]]<\\/li>"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7b5b8345ff51f564e386a67db86ebabb',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '6d34d20fb3199bb0b7dec54c48599c7d',
+  'native_key' => 19,
+  'object' => '{"id":19,"template":1,"name":"delete_context","description":"perm.delete_context_desc","value":1}',
+);

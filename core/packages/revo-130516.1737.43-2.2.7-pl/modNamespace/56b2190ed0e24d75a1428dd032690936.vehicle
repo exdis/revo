@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a36b4c620d5c46d550ceff4bdedd98af',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '56b2190ed0e24d75a1428dd032690936',
+  'native_key' => 'tinymce',
+  'object' => '{"name":"tinymce","path":"{core_path}components\\/tinymce\\/","assets_path":null}',
+);

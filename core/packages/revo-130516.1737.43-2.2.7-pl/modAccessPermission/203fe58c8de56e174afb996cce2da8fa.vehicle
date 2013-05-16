@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '74eaec88790afc5df509301a40b62034',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '203fe58c8de56e174afb996cce2da8fa',
+  'native_key' => 26,
+  'object' => '{"id":26,"template":1,"name":"delete_tv","description":"perm.delete_tv_desc","value":1}',
+);

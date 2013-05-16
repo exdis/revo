@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ecf403311571583ff1e2e31195e025f9',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '68d5706ed16ffc98f3f2d6196200fcf6',
+  'native_key' => 18,
+  'object' => '{"id":18,"namespace":"core","controller":"element\\/template\\/create","haslayout":1,"lang_topics":"template,propertyset,element","assets":"","help_url":"Templates"}',
+);

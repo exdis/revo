@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd67eb9209cc0efab5314468ae38e3669',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '9a08217a0d00c28270859f3c6d737faf',
+  'native_key' => 61,
+  'object' => '{"id":61,"namespace":"core","controller":"system\\/import\\/html","haslayout":1,"lang_topics":"import","assets":"","help_url":""}',
+);

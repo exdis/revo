@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5d7728760f9cb63be5b5863382c33c8f',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '0ccf6eb37379a493adcb619440c3c59b',
+  'native_key' => 162,
+  'object' => '{"id":162,"template":1,"name":"view_offline","description":"perm.view_offline_desc","value":1}',
+);

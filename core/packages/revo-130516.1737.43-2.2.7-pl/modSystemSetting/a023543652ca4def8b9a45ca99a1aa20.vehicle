@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f97e09b1ef567b3ee7bd6d4c34bac17f',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a023543652ca4def8b9a45ca99a1aa20',
+  'native_key' => 'phpthumbof.s3_cache_time',
+  'object' => '{"key":"phpthumbof.s3_cache_time","value":"24","xtype":"textfield","namespace":"phpthumbof","area":"s3","editedon":"0000-00-00 00:00:00"}',
+);

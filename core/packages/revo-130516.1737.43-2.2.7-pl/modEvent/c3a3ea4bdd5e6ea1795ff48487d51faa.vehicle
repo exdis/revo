@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd5c5f23512d0bafd3774c6acabfe46c2',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => 'c3a3ea4bdd5e6ea1795ff48487d51faa',
+  'native_key' => 'OnDocFormRender',
+  'object' => '{"name":"OnDocFormRender","service":1,"groupname":"Resources"}',
+);

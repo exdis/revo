@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b08708c01a451f337db279728183020a',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '7ec44c8ba8a47780f5b6ac871806e1a0',
+  'native_key' => 75,
+  'object' => '{"id":75,"namespace":"core","controller":"workspaces\\/namespace","haslayout":1,"lang_topics":"workspace,package_builder,lexicon,namespace","assets":"","help_url":"Namespaces"}',
+);

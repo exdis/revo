@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '83f3429e35910e14797778145a6e265f',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '516bc5e07d52fc4b80ac4b9c20c8d570',
+  'native_key' => 'phpthumbof.cache_url',
+  'object' => '{"key":"phpthumbof.cache_url","value":"","xtype":"textfield","namespace":"phpthumbof","area":"paths","editedon":"0000-00-00 00:00:00"}',
+);

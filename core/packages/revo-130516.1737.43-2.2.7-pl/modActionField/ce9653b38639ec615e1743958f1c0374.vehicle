@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '39b82aafc7e8e92212e97adf1361887a',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => 'ce9653b38639ec615e1743958f1c0374',
+  'native_key' => 61,
+  'object' => '{"id":61,"action":55,"name":"publishedon","type":"field","tab":"modx-page-settings-right","form":"modx-panel-resource","other":"","rank":0}',
+);
