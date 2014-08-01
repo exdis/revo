@@ -1,4 +1,13 @@
-DX Revolution ["Веб-студии А42"](http://a42.ru/site/)
+# MODx Revolution 
+###### Сборка Студии [Атвинта](http://atwinta.ru)
+
+Обновление от 1.08.2014:
+
+* Обновлено ядро до версии 2.3.1
+* Удалены getResources и Wayfinder
+* Добвалены pdoTools
+
+---
 
 В сборку добавлены пакеты:
 
@@ -6,12 +15,13 @@ DX Revolution ["Веб-студии А42"](http://a42.ru/site/)
 * Breadcrumbs
 * ClientConfig
 * Formit
-* getResources
 * Login
 * phpThumbOf
 * TinyMCE
 * translit
-* Wayfinder
+* pdoTools
+
+---
 
 Также:
 
@@ -25,4 +35,3 @@ DX Revolution ["Веб-студии А42"](http://a42.ru/site/)
 Установка:
 
 Ставим чистый MODX Revolution, скачиваем пакет, кладем в core/packages, устанавливаем, профит!
-
